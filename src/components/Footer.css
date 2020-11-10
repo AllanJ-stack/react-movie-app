@@ -1,0 +1,32 @@
+.main-footer {
+    color: rgb(95, 84, 84);
+    background-color: greenyellow;
+    padding-top: 5em;
+    padding-bottom: 1em;
+    position: relative;
+    bottom: 0%;
+    width: 100%;
+    display: grid;
+    grid-column: auto;
+}
+.main-footer h4 {
+    color: gray;
+    font-size: 14px;
+    background-color: greenyellow;
+    
+}
+.main-footer ul li  {
+    background-color: greenyellow;
+    color: indigo;
+    font-size: 10px;
+}
+.list-unstyled {
+    background-color: greenyellow;
+}
+.col-sm {
+    background-color: rgb(95, 84, 84);
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    text-align: center;
+    padding: 5px
+}
